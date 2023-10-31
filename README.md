@@ -2,7 +2,10 @@
  Java Spring Boot API to store media in Azure Storage and media metadata in MongoDB
 
  Requirements:
- - Java Verion 11 or above
+ - [Java 11](https://www.java.com/en/download/manual.jsp) or higher.
+ - [Maven](https://maven.apache.org/) or Gradle, but this tutorial will reference Maven.
+ - Your own [MongoDB Atlas](https://www.mongodb.com/) account.
+ - An [Azure Account](https://azure.microsoft.com/en-us/free/) with an active subscription.
  - Azure Storage Container
  - MongoDB cluster
 
